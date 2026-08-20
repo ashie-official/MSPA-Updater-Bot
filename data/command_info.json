@@ -1,0 +1,19 @@
+{
+    "COG_NAME": {
+        "GROUP_INFORMATION": {
+            "____note": "GROUP_INFORMATION is supposed to be in all caps, don't change that shit lol",
+            "name": "",
+            "desc": "CANNOT BE EMPTY FOR SOME REASON EVEN IF IT NEVER SHOWS UP"
+        },
+
+        "COMMAND": {
+            "name": "",
+            "desc": "",
+            "args": {
+                "argument": ""
+            },
+            "title": "",
+            "body": ""
+        }
+    }
+}
